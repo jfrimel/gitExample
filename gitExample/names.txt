@@ -1,2 +1,3 @@
-boss,NetID,Frimel,JP
+role,NetID,Lastname,Firstname
+boss,9082192783,Frimel,JP
 employee,9082064859,Ruzicka,Theo
